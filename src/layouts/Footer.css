@@ -1,0 +1,24 @@
+.logofotter{
+    color: rgb(76, 76, 76);
+    font-weight: 700;
+    font-size: 16px;
+}
+.logofotter span{
+    color: rgb(125, 42, 232);
+
+}
+.containerfooter{
+    margin-top: 4rem;
+    padding: 2rem 6%;
+    border-top: 1px solid rgb(208, 208, 210);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon i{
+    color: rgb(85, 85, 85);
+    font-size: 26px;
+}
+.icon i:hover{
+    color: rgb(125, 42, 232);
+}

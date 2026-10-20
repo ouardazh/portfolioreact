@@ -1,0 +1,37 @@
+.container{
+    padding: 4rem 6%;
+}
+.title{
+    font-weight: 700;
+    color: rgb(85, 85, 85);
+    padding-bottom: 1rem;
+}
+.title span{
+    color: rgb(125, 42, 232);
+}
+.secondtitle{
+    font-weight: 700;
+    color: rgb(85, 85, 85);
+    padding-bottom: 1rem;
+}
+.paragraph{
+    color: rgb(85, 85, 85);
+    padding-bottom: 1rem;
+}
+.containerbtn{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.hire{
+    background-color: rgb(125, 42, 232);
+    border-radius: 8px;
+    padding: 6px 20px;
+    color: white;
+}
+.see{
+    border: 1px solid rgb(125, 42, 232);
+    border-radius: 8px;
+    padding: 6px;
+    color:rgb(125, 42, 232) ;
+}

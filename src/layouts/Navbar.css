@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(233, 233, 235);
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 6%;
+
+}
+.links a{
+    text-decoration: none;
+    color: rgb(76, 76, 76);
+}
+.links a:hover{
+    color: rgb(125, 42, 232);
+    font-weight: 600;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.logo{
+    color: rgb(76, 76, 76);
+    font-weight: 800;
+    font-size: 20px;
+}
+.logo span{
+    color: rgb(125, 42, 232);
+
+}
+.talk{
+    border: 1px solid rgb(125, 42, 232);
+    background-color: rgb(125, 42, 232);
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 8px;
+}

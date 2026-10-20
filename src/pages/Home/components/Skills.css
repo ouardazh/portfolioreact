@@ -1,0 +1,22 @@
+.containerskills{
+    padding: 4rem 6%;
+}
+.skills{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.titleskills{
+    font-size: 26;
+    font-weight: bold;
+    color: rgb(125, 42, 232);
+    padding-bottom: 20px;
+}
+label{
+    color: rgb(85, 85, 85);
+    font-weight: bold;
+}
+progress {
+  accent-color:rgb(125, 42, 232);
+}
